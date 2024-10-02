@@ -34,6 +34,8 @@
 
 
 # Others
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
 | [RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset](https://arxiv.org/abs/2303.12564)| CVPR 2023 | [[project]](https://gaplab.cuhk.edu.cn/projects/RaBit/) |
 | [S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch](https://arxiv.org/abs/2408.01218)| ACM MM 2024 | [[code]](https://github.com/wang-zidu/S2TD-Face) |
 | [DeepSketchHair: Deep Sketch-based 3D Hair Modeling](https://arxiv.org/abs/1908.07198) | TVCG 2019 |  |
