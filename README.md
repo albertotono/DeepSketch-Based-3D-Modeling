@@ -27,6 +27,7 @@
 | [Retrieval-Specific View Learning for Sketch-to-Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/10155453) | TMM 2023 |  |
 | [Doodle to Object: Practical Zero-Shot Sketch-Based 3D Shape Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/25344) | AAAI 2023 | [[code]](https://github.com/yigohw/doodle2object) |
 | [Democratising 2D Sketch to 3D Shape Retrieval Through Pivoting](https://openaccess.thecvf.com/content/ICCV2023/papers/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.pdf) | ICCV 2023 |  |
+| [CLIPXPlore: Coupled CLIP and Shape Spaces for 3D Shape Exploration](https://dl.acm.org/doi/10.1145/3610548.3618144) | SIGGRAPH Asia 2023 | |
 
 
 ## 2. Sketch Based 3D Shape Modeling
