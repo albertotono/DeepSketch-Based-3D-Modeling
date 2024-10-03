@@ -26,5 +26,3 @@
 | [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://enigma-li.github.io/projects/free2cad/Free2CAD_SIG_2022.pdf) | SIGGRAPH 2022 | [[project]](http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) [[code]](https://github.com/Enigma-li/Free2CAD) |
 | [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257) | arxiv 24.01 |  |
 | [Deep3DSketch+: Rapid 3D Modeling from Single Free-Hand Sketches](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_2) | MM Modeling 2023| |
-| [CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention](https://arxiv.org/abs/2402.17678) | CVPR 2024 |  |
-| [SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SfmCAD_Unsupervised_CAD_Reconstruction_by_Learning_Sketch-based_Feature_Modeling_Operations_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/BunnySoCrazy/SfmCAD) |
