@@ -1,5 +1,5 @@
-# Awesome-Neuro-Sketch-Based-Modeling for 3D Representation (Shapes)
-## [Neuro Sketch Based 3D Modeling](https://docs.google.com/spreadsheets/d/1uzk5veyd1NCjkYK5tiwvx1yG_2nv57keYSKqyuaprFk/edit?usp=sharing)
+# Neuralsketch-Based 3D Modeling (NSBM) for 3D Representation (Shapes)
+## [Neuralsketch Based 3D Modeling](https://docs.google.com/spreadsheets/d/1uzk5veyd1NCjkYK5tiwvx1yG_2nv57keYSKqyuaprFk/edit?usp=sharing)
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -26,3 +26,10 @@
 | [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://enigma-li.github.io/projects/free2cad/Free2CAD_SIG_2022.pdf) | SIGGRAPH 2022 | [[project]](http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) [[code]](https://github.com/Enigma-li/Free2CAD) |
 | [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257) | arxiv 24.01 |  |
 | [Deep3DSketch+: Rapid 3D Modeling from Single Free-Hand Sketches](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_2) | MM Modeling 2023| |
+| [ControlDreamer: Blending Geometry and Style in Text-to-3D](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_2](https://arxiv.org/abs/2312.01129)) | -- | |
+| [Learning Manifold Patch-Based Representations of Man-Made Shapes](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Sketch_and_Text_Guided_Diffusion_Model_for_Colored_Point_Cloud_ICCV_2023_paper.pdf) | CVPR 2021 | |
+| [Sketch2PointCol: Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation](https://arxiv.org/abs/1906.12337) | --- | |
+| [Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation](https://openreview.net/pdf?id=kEpfY7f4wU) | --- | |
+
+
+
