@@ -1,5 +1,5 @@
-# Neuralsketch-Based 3D Modeling (NSBM) for 3D Representation (Shapes)
-## [Neuralsketch Based 3D Modeling](https://docs.google.com/spreadsheets/d/1uzk5veyd1NCjkYK5tiwvx1yG_2nv57keYSKqyuaprFk/edit?usp=sharing)
+# Deep Sketch-Based 3D Modeling (DSBM) for 3D Representation (Shapes)
+## [Deep Sketch Based 3D Modeling](https://docs.google.com/spreadsheets/d/1uzk5veyd1NCjkYK5tiwvx1yG_2nv57keYSKqyuaprFk/edit?usp=sharing)
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
