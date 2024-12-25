@@ -30,6 +30,6 @@
 | [Learning Manifold Patch-Based Representations of Man-Made Shapes](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Sketch_and_Text_Guided_Diffusion_Model_for_Colored_Point_Cloud_ICCV_2023_paper.pdf) | CVPR 2021 | |
 | [Sketch2PointCol: Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation](https://arxiv.org/abs/1906.12337) | --- | |
 | [Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation](https://openreview.net/pdf?id=kEpfY7f4wU) | --- | |
-
+| [Sketch-guided Cage-based 3D Gaussian Splatting Deformation]([https://openreview.net/pdf?id=kEpfY7f4wU](https://arxiv.org/abs/2411.12168)) | ArXiv 2024 | |
 
 
