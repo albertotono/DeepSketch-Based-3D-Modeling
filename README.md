@@ -10,7 +10,7 @@
 | [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663) | CVPR 2021 |  |
 | [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/abs/2104.00482v1) | ICCV 2021 |  |
 | [SketchSampler: Sketch-based 3D Reconstruction via View-dependent Depth Sampling](https://arxiv.org/abs/2208.06880) | ECCV 2022 | [[code]](https://github.com/cjeen/sketchsampler) |
-| [Deep Reconstruction of 3D Smoke Densities from Artist Sketches](http://www.byungsoo.me/project/sketch2density/paper.pdf) | EG 2022 | [[project]](http://www.byungsoo.me/project/sketch2density/) [[code]](https://github.com/byungsook/sketch2fluid) |
+| [Deep Reconstruction of 3D Smoke Densities from Artist Sketches](https://hal.science/hal-03711264/file/paper1012_CRC.pdf) | EG 2022 | [[code]](https://github.com/byungsook/sketch2fluid) |
 | [A Diffusion-ReFinement Model for Sketch-to-Point Modeling](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_A_Diffusion-ReFinement_Model_for_Sketch-to-Point_Modeling_ACCV_2022_paper.pdf)| ACCV 2022 | [[code]](https://github.com/Walterkd/diffusion-refine-sketch2point) |
 | [SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling](https://arxiv.org/abs/2307.00804)| TVCG 2023 | [[project]](https://zhongjinluo.github.io/SketchMetaFace/) [[code]](https://github.com/zhongjinluo/SketchMetaFace) |
 | [Reality3DSketch: Rapid 3D Modeling of Objects from Single Freehand Sketches](https://arxiv.org/abs/2310.18148)| TMM 2023 |  |
