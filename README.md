@@ -46,6 +46,6 @@
 | [Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation](https://openreview.net/pdf?id=kEpfY7f4wU) | -- | |
 | [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168) | ArXiv 2024 | |
 | [3D Reconstruction From a Single Sketch via View-Dependent Depth Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589301) | TPAMI 2024 | |
-
+| [Three-Dimensional Shape Reconstruction from Digital Freehand Design Sketching Based on Deep Learning Techniques](https://mdpi-res.com/applsci/applsci-14-11717/article_deploy/applsci-14-11717.pdf?version=1734340638) | Applied Sciences 2024 | |
 
 
