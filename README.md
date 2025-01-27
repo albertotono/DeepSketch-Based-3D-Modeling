@@ -3,8 +3,8 @@
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks](https://people.cs.umass.edu/~zlun/papers/SketchModeling/SketchModeling.pdf) | 3DV 2017 | [[code]](https://github.com/happylun/SketchModeling) [[project]](https://people.cs.umass.edu/~zlun/SketchModeling/) |
-| [Shape Synthesis from Sketches via Procedural Models and Convolutional Networks](https://people.cs.umass.edu/~kalo/papers/shapepmconvnet/shapepmconvnet.pdf) | TVCG 2017 |  |
+| [3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks](https://arxiv.org/pdf/1707.08390) | 3DV 2017 | [[code]](https://github.com/happylun/SketchModeling) |
+| [Shape Synthesis from Sketches via Procedural Models and Convolutional Networks](http://www.meyumer.com/pdfs/shapepmconvnet.pdf) | TVCG 2017 |  |
 | [Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling](http://haopan.github.io/papers/SketchCNN.pdf) | SIGGRAPH Asia 2018 | [[code]](https://github.com/Enigma-li/SketchCNN) [[project]](http://haopan.github.io/sketchCNN.html) |
 | [Towards Practical Sketch-Based 3D Shape Generation: The Role of Professional Sketches](https://ieeexplore.ieee.org/abstract/document/9272370) | TCSVT 2020 |  |
 | [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663) | CVPR 2021 |  |
