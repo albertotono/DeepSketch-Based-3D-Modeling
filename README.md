@@ -1,6 +1,9 @@
 # Deep Sketch-Based 3D Modeling (DS-3DM) for 3D Representation (Shapes)
 ## [Deep Sketch Based 3D Modeling](https://docs.google.com/spreadsheets/d/1uzk5veyd1NCjkYK5tiwvx1yG_2nv57keYSKqyuaprFk/edit?usp=sharing)
 
+
+
+
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks](https://arxiv.org/pdf/1707.08390) | 3DV 2017 | [[code]](https://github.com/happylun/SketchModeling) |
@@ -16,6 +19,7 @@
 | [Deep Reconstruction of 3D Smoke Densities from Artist Sketches](https://hal.science/hal-03711264/file/paper1012_CRC.pdf) | EG 2022 | [[code]](https://github.com/byungsook/sketch2fluid) |
 | [A Diffusion-ReFinement Model for Sketch-to-Point Modeling](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_A_Diffusion-ReFinement_Model_for_Sketch-to-Point_Modeling_ACCV_2022_paper.pdf)| ACCV 2022 | [[code]](https://github.com/Walterkd/diffusion-refine-sketch2point) |
 | [SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling](https://arxiv.org/abs/2307.00804)| TVCG 2023 | [[project]](https://zhongjinluo.github.io/SketchMetaFace/) [[code]](https://github.com/zhongjinluo/SketchMetaFace) |
+| [Control3D: Towards Controllable Text-to-3D Generation](https://dl.acm.org/doi/10.1145/3581783.3612489)| MM 2023 | |
 | [Reality3DSketch: Rapid 3D Modeling of Objects from Single Freehand Sketches](https://arxiv.org/abs/2310.18148)| TMM 2023 |  |
 | [GA-Sketching: Shape Modeling from Multi-View Sketching with Geometry-Aligned Deep Implicit Functions](https://doi.org/10.1111/cgf.14948)| PG 2023 | [[code]](https://github.com/LordLiang/GA-Sketching) |
 | [CLIPXPlore: Coupled CLIP and Shape Spaces for 3D Shape Exploration](https://dl.acm.org/doi/10.1145/3610548.3618144) | SIGGRAPH Asia 2023 | |
