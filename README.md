@@ -47,5 +47,8 @@
 | [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168) | ArXiv 2024 | |
 | [3D Reconstruction From a Single Sketch via View-Dependent Depth Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589301) | TPAMI 2024 | |
 | [Three-Dimensional Shape Reconstruction from Digital Freehand Design Sketching Based on Deep Learning Techniques](https://mdpi-res.com/applsci/applsci-14-11717/article_deploy/applsci-14-11717.pdf?version=1734340638) | Applied Sciences 2024 | |
+| [Sketch-based Point Cloud Generation with Diffusion Model and Pre-training Enhancement](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10888980&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzEwODg4OTgwP2RsZD1jM1JoYm1admNtUXVaV1IxJnNvdXJjZT1TRUFSQ0hBTEVSVA==&tag=1) | IEEE 2025 | |
+
+
 
 
